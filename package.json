@@ -1,19 +1,18 @@
 {
-  "name": "com.trippleq.avatar-system",
+  "name": "com.trippleq.ui-kit",
   "version": "0.1.0",
-  "displayName": "Avatar System",
-  "description": "Reusable avatar system core for casual games. Includes database SO, persistence, and unlock integration interfaces.",
+  "displayName": "Base UI",
+  "description": "Reusable base UI for casual games. Includes sprites",
   "unity": "6000.0",
   "unityRelease": "58f2",
   "keywords": [
-    "avatar",
+    "ui",
     "casual",
-    "profile",
     "sdk"
   ],
   "author": {
     "name": "TrippleQ Studio",
-    "url": "https://github.com/whateverittake/trippleq-avatar-system"
+    "url": "https://github.com/whateverittake/trippleq-ui-kit#"
   },
   "dependencies": {
   }
