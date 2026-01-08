@@ -10,7 +10,6 @@ namespace TrippleQ.UiKit
         // lifecycle UI
         void Show();
         void Hide();
-        void SetInteractable(bool interactable);
 
         // content
         void SetTitle(string title);
@@ -20,8 +19,5 @@ namespace TrippleQ.UiKit
         void SetPrimary(string label, Action onClick);
         void SetSecondary(string label, Action onClick);
         void SetClose(Action onClick);
-
-        // optional: loading / busy
-        void SetLoading(bool isLoading);
     }
 }
