@@ -12,7 +12,7 @@ namespace TrippleQ.UiKit
         [SerializeField] RewardTooltipController _booster3Reward;
         [SerializeField] RewardTooltipController _booster4Reward;
 
-        internal void UpdateView(RewardData rewardData)
+        public void UpdateView(RewardData rewardData)
         {
             if(rewardData.Coin > 0)
             {
