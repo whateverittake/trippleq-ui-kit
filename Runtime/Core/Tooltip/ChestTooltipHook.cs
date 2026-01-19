@@ -8,8 +8,14 @@ namespace TrippleQ.UiKit
         [SerializeField] private TooltipController _tooltip;
         [SerializeField] private RectTransform _anchor; // chest rect transform
         [SerializeField] GameObject[] _iconObjs;
+        [SerializeField] RectTransform _tutRect;
 
         private RewardData _rewardData;
+
+        public RectTransform GetTutRect()
+        {
+            return _tutRect;
+        }
 
         public void InitData(int coin, int gem, int booster1, int booster2, int booster3, int booster4)
         {

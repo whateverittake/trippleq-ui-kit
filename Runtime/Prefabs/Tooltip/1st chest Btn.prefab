@@ -148,3 +148,4 @@ MonoBehaviour:
   _tooltip: {fileID: 0}
   _anchor: {fileID: 3565455974478477183}
   _iconObjs: []
+  _tutRect: {fileID: 3565455974478477183}
