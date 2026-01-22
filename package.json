@@ -1,7 +1,7 @@
 {
   "name": "com.trippleq.ui-kit",
   "version": "0.1.1",
-  "displayName": "Base UI",
+  "displayName": "TrippleQ Base UI",
   "description": "Reusable base UI for casual games. Includes sprites",
   "unity": "6000.0",
   "unityRelease": "58f2",
